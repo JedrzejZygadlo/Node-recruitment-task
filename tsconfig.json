@@ -9,5 +9,5 @@
     "esModuleInterop": true,
     "types": ["node", "jest"]
   },
-  "include": ["src/**/*", "app.ts"]
+  "include": ["src/**/*", "src/app.ts"]
 }
