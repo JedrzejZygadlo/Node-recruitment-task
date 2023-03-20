@@ -12,11 +12,12 @@ The project was created as a recruitment task. The main goal was to refactor app
 
 ## Technologies
 Project is created with:
-Typescript
-Node.js (I was using version: v16.19.1)
-Eslint
-Prettier
-Jest
+
+* Typescript
+* Node.js (I was using version: v16.19.1)
+* Eslint
+* Prettier
+* Jest
 
 In additional part also mongoDB and mongoose
 
